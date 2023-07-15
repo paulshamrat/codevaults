@@ -10,10 +10,11 @@ pip install --upgrade MDAnalysisData
 # mdtraj, nglview, cython, pytraj, tsplot
 # gnuplot, prody
 pip install mdtraj
+pip install biopython
 pip install nglview
 pip install cython --upgrade
-pip install pytraj
-pip install tsplot
+# pip install pytraj
+# pip install tsplot
 
 #!sudo apt-get install gnuplot-x11
 #!pip install prody\
